@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807670728160",
+    "project_id": "farmerfieldmanagement",
+    "storage_bucket": "farmerfieldmanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807670728160:android:28fdcc04521640683ed785",
+        "android_client_info": {
+          "package_name": "com.example.farmerfieldmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdx_vEzoWYu0EDwEL_H-vGCIL1XjaqCxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
